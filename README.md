@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/DevonHughesCodes/QR-Component-Solution))
+- Solution URL: [GitHub](https://github.com/DevonHughesCodes/QR-Component-Solution))
 - Live Site URL: [LiveSite](https://your-live-site-url.com)
 
 ## My process
